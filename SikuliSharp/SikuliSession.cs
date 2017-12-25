@@ -13,7 +13,9 @@ namespace SikuliSharp
 		bool Wait(IPattern pattern, float timeoutInSeconds = 0);
 		bool WaitVanish(IPattern pattern, float timeoutInSeconds = 0);
 		bool Type(string text);
-	}
+        bool DragDrop(IPattern pattern, IPattern pattern2);
+        bool Hover(IPattern pattern);
+    }
 
 	public class SikuliSession : ISikuliSession
 	{
@@ -26,7 +28,17 @@ namespace SikuliSharp
 			_runtime.Start();
 		}
 
-		public bool Exists(IPattern pattern, float timeoutInSeconds = 0f)
+        public bool Hover(IPattern pattern)
+        {
+            return RunCommand("hover", pattern, 0);
+        }
+
+        public bool DragDrop(IPattern pattern, IPattern pattern2)
+        {
+            return RunCommand2Param("dragDrop", pattern, pattern2, 0);
+        }
+
+        public bool Exists(IPattern pattern, float timeoutInSeconds = 0f)
 		{
 			return RunCommand("exists", pattern, timeoutInSeconds);
 		}
@@ -90,7 +102,24 @@ namespace SikuliSharp
 			return result.Contains("SIKULI#: YES");
 		}
 
-		private static string ToSukuliFloat(float timeoutInSeconds)
+        protected bool RunCommand2Param(string command, IPattern pattern, IPattern pattern2, float commandParameter)
+        {
+            pattern.Validate();
+
+            var script = string.Format(
+                "print \"SIKULI#: YES\" if {0}({1}{3},{2}{3}) else \"SIKULI#: NO\"",
+                command,
+                pattern.ToSikuliScript(),
+                pattern2.ToSikuliScript(),
+                ToSukuliFloat(commandParameter)
+                );
+
+            var result = _runtime.Run(script, "SIKULI#: ", commandParameter * 1.5d); // Failsafe
+            return result.Contains("SIKULI#: YES");
+        }
+
+
+        private static string ToSukuliFloat(float timeoutInSeconds)
 		{
 			return timeoutInSeconds > 0f ? ", " + timeoutInSeconds.ToString("0.####") : "";
 		}

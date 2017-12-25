@@ -42,7 +42,7 @@ namespace SikuliSharp
 
 		public string ToSikuliScript()
 		{
-			return string.Format(NumberFormatInfo.InvariantInfo, "Pattern(\"{0}\").similar({1})", _path.Replace(@"\", @"\\"), _similarity);
+			return string.Format(NumberFormatInfo.InvariantInfo, "Pattern(\"{0}\").similar({1})", _path.Replace(@"\", @"\\"), _similarity.ToString(CultureInfo.InvariantCulture));
 		}
 	}
 

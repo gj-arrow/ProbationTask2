@@ -17,6 +17,7 @@ D:\Work\Task2Sikuli\SikuliTest\SikuliTest\bin\Debug\nunit.framework.xml
 D:\Work\Task2Sikuli\SikuliTest\SikuliTest\bin\Debug\WebDriver.xml
 D:\Work\Task2Sikuli\SikuliTest\SikuliTest\obj\Debug\SikuliTest.dll
 D:\Work\Task2Sikuli\SikuliTest\SikuliTest\obj\Debug\SikuliTest.pdb
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\SikuliTest\obj\Debug\SikuliTest.csprojResolveAssemblyReference.cache
 D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\SikuliTest\bin\Debug\SikuliTest.dll.config
 D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\SikuliTest\bin\Debug\SikuliTest.dll
 D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\SikuliTest\bin\Debug\SikuliTest.pdb
@@ -29,6 +30,5 @@ D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\SikuliTest\bin\Debug\log4
 D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\SikuliTest\bin\Debug\SikuliSharp.pdb
 D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\SikuliTest\bin\Debug\OnlinerTestDemo.pdb
 D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\SikuliTest\bin\Debug\WebDriver.xml
-D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\SikuliTest\obj\Debug\SikuliTest.csprojResolveAssemblyReference.cache
 D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\SikuliTest\obj\Debug\SikuliTest.dll
 D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\SikuliTest\obj\Debug\SikuliTest.pdb

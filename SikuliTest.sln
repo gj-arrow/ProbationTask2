@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SikuliTest", "SikuliTest\Si
 		{420D4ED4-F2DB-4FB3-AC7F-C6E7733A401C} = {420D4ED4-F2DB-4FB3-AC7F-C6E7733A401C}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SikuliSharp", "..\..\SikuliSharp-master\SikuliSharp\SikuliSharp.csproj", "{A4DB5054-B4A1-4DCD-AFC6-91EFE9C25135}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SikuliSharp", "SikuliSharp\SikuliSharp.csproj", "{A4DB5054-B4A1-4DCD-AFC6-91EFE9C25135}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart", "smart\Smart.csproj", "{420D4ED4-F2DB-4FB3-AC7F-C6E7733A401C}"
 EndProject

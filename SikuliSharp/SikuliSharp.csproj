@@ -42,8 +42,8 @@
     <Compile Include="Sikuli.cs" />
     <Compile Include="SikuliException.cs" />
     <Compile Include="SikuliFindFailedException.cs" />
-    <Compile Include="SikuliScriptProcessFactory.cs" />
     <Compile Include="SikuliRuntime.cs" />
+    <Compile Include="SikuliScriptProcessFactory.cs" />
     <Compile Include="SikuliSession.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,5 +1,4 @@
-﻿using System.Threading;
-using demo.framework;
+﻿using demo.framework;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SikuliTest.Forms;
 
@@ -26,11 +25,9 @@ namespace SikuliTest.Test
             Log.Step("Assert that modal window was closed");
             Assert.IsTrue(mainF.isClosedWindow(), "Modal window wasn't closed");
 
-           // Thread.Sleep(500);
             Log.Step("");
             mainF.GetMainSideMenu().NavigateToMenuItem(MainMenuItems.TopLevelMenuItemEnum.FURNISH_YOUR_ROOM);
 
-            //Thread.Sleep(500);
             Log.Step("");
             mainF.GetBrowseCategoryMenu().NavigateToMenuItem(FurnishMenuItems.TopLevelMenuItemEnum.DINING_ROOM);
 
@@ -54,7 +51,6 @@ namespace SikuliTest.Test
             Log.Step("");
             sikuliActions.Click(deleteItem);
 
-            //  Assert.IsTrue(!sikuliActions.Exists(itemViewFromAbove), "Item not removed from scene");
             Assert.IsTrue(mainF.IsAllFieldSceneInformationZero(), "Fields of information scene are not zero");
         }
     }
