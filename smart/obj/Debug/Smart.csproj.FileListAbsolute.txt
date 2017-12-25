@@ -1,0 +1,73 @@
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\bin\Debug\OnlinerTestDemo.dll.config
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\bin\Debug\OnlinerTestDemo.dll
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\bin\Debug\OnlinerTestDemo.pdb
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\bin\Debug\ImapX.dll
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\bin\Debug\log4net.dll
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\bin\Debug\nunit-console-runner.dll
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\bin\Debug\nunit.core.dll
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\bin\Debug\nunit.core.interfaces.dll
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\bin\Debug\nunit.framework.dll
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\bin\Debug\nunit.util.dll
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\bin\Debug\Rhino.Mocks.dll
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\bin\Debug\WebDriver.dll
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\bin\Debug\WebDriver.Support.dll
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\obj\Debug\Smart.csprojResolveAssemblyReference.cache
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\obj\Debug\Smart.csproj.CoreCompileInputs.cache
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\obj\Debug\OnlinerTestDemo.dll
+D:\Work\smart_csharp_mini-master-dd38c23a89baeab80d0d4c328edaebbf603cf5b2\obj\Debug\OnlinerTestDemo.pdb
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\bin\Debug\OnlinerTestDemo.dll.config
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\bin\Debug\OnlinerTestDemo.dll
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\bin\Debug\OnlinerTestDemo.pdb
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\bin\Debug\ImapX.dll
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\bin\Debug\log4net.dll
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\bin\Debug\nunit-console-runner.dll
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\bin\Debug\nunit.core.dll
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\bin\Debug\nunit.core.interfaces.dll
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\bin\Debug\nunit.framework.dll
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\bin\Debug\nunit.util.dll
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\bin\Debug\Rhino.Mocks.dll
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\bin\Debug\WebDriver.dll
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\bin\Debug\WebDriver.Support.dll
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\obj\Debug\Smart.csproj.CoreCompileInputs.cache
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\obj\Debug\OnlinerTestDemo.dll
+D:\Work\Vk-Api\a.hovrin\TaskVkApi\smart\obj\Debug\OnlinerTestDemo.pdb
+D:\Work\a.hovrin\TaskVkApi\smart\bin\Debug\OnlinerTestDemo.dll.config
+D:\Work\a.hovrin\TaskVkApi\smart\bin\Debug\OnlinerTestDemo.dll
+D:\Work\a.hovrin\TaskVkApi\smart\bin\Debug\OnlinerTestDemo.pdb
+D:\Work\a.hovrin\TaskVkApi\smart\bin\Debug\ImapX.dll
+D:\Work\a.hovrin\TaskVkApi\smart\bin\Debug\log4net.dll
+D:\Work\a.hovrin\TaskVkApi\smart\bin\Debug\nunit-console-runner.dll
+D:\Work\a.hovrin\TaskVkApi\smart\bin\Debug\nunit.core.dll
+D:\Work\a.hovrin\TaskVkApi\smart\bin\Debug\nunit.core.interfaces.dll
+D:\Work\a.hovrin\TaskVkApi\smart\bin\Debug\nunit.framework.dll
+D:\Work\a.hovrin\TaskVkApi\smart\bin\Debug\nunit.util.dll
+D:\Work\a.hovrin\TaskVkApi\smart\bin\Debug\Rhino.Mocks.dll
+D:\Work\a.hovrin\TaskVkApi\smart\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Work\a.hovrin\TaskVkApi\smart\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Work\a.hovrin\TaskVkApi\smart\bin\Debug\WebDriver.dll
+D:\Work\a.hovrin\TaskVkApi\smart\bin\Debug\WebDriver.Support.dll
+D:\Work\a.hovrin\TaskVkApi\smart\obj\Debug\Smart.csproj.CoreCompileInputs.cache
+D:\Work\a.hovrin\TaskVkApi\smart\obj\Debug\OnlinerTestDemo.dll
+D:\Work\a.hovrin\TaskVkApi\smart\obj\Debug\OnlinerTestDemo.pdb
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\OnlinerTestDemo.dll
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\OnlinerTestDemo.pdb
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\ImapX.dll
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\log4net.dll
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\nunit-console-runner.dll
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\nunit.core.dll
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\nunit.core.interfaces.dll
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\nunit.framework.dll
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\nunit.util.dll
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\Rhino.Mocks.dll
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\WebDriver.dll
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\WebDriver.Support.dll
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\obj\Debug\OnlinerTestDemo.dll
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\obj\Debug\OnlinerTestDemo.pdb
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\obj\Debug\Smart.csprojResolveAssemblyReference.cache

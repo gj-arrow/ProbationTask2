@@ -1,0 +1,6 @@
+﻿<xml>
+  <item>\..\..\Resources\ImagesForSikuli\Table.png</item>
+  <itemViewFromAbove>\..\..\Resources\ImagesForSikuli\TableViewFromAbove.png</itemViewFromAbove>
+  <placeForItem>\..\..\Resources\ImagesForSikuli\EmptyPlace.png</placeForItem>
+  <deleteButton>\..\..\Resources\ImagesForSikuli\btnDelete.png</deleteButton>
+</xml>
