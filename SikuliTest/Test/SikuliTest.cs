@@ -1,8 +1,6 @@
-﻿using System;
-using System.Threading;
+﻿using System.Threading;
 using demo.framework;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SikuliSharp;
 using SikuliTest.Forms;
 
 namespace SikuliTest.Test
@@ -13,7 +11,7 @@ namespace SikuliTest.Test
         private readonly string item = RunConfigurator.GetValue("item");
         private readonly string itemViewFromAbove = RunConfigurator.GetValue("itemViewFromAbove");
         private readonly string placeForItem = RunConfigurator.GetValue("placeForItem");
-        private readonly string deleteButton = RunConfigurator.GetValue("deleteButton");
+        private readonly string deleteItem = RunConfigurator.GetValue("deleteButton");
 
         [TestMethod]
         public void TestSikuli()
@@ -54,7 +52,7 @@ namespace SikuliTest.Test
             Assert.IsTrue(mainF.IsPositiveCharacteristics(characteristicsItem), "One or more characteristics of item isn't positive");
 
             Log.Step("");
-            sikuliActions.Click(deleteButton);
+            sikuliActions.Click(deleteItem);
 
             //  Assert.IsTrue(!sikuliActions.Exists(itemViewFromAbove), "Item not removed from scene");
             Assert.IsTrue(mainF.IsAllFieldSceneInformationZero(), "Fields of information scene are not zero");

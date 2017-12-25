@@ -6,7 +6,7 @@ namespace SikuliTest.Forms
     public class SikuliActions
     {
         ISikuliSession session = Sikuli.CreateSession();
-        string pathToProject = Environment.CurrentDirectory;
+        private string pathToProject = Environment.CurrentDirectory;
         public void DragAndDrop(string Image, string endPointImage)
         {
             var image = Patterns.FromFile(pathToProject + Image);

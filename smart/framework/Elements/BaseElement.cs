@@ -1,10 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Remote;
 using OpenQA.Selenium.Support.UI;
 
@@ -15,6 +12,7 @@ namespace demo.framework.Elements
         private readonly RemoteWebElement _element;
         private readonly string _name;
         private readonly By _locator;
+        public WebDriverWait Wait = new WebDriverWait(Browser.GetDriver(), TimeSpan.FromSeconds(Convert.ToDouble(Configuration.GetTimeout())));
 
         protected BaseElement(By locator, String name)
         {
@@ -71,6 +69,12 @@ namespace demo.framework.Elements
         {
             return Browser.GetDriver().FindElements(_locator).ToList();
         }
+
+        //public void WaitUntilClickable()
+        //{
+        //    WaitForElementDisplayed();
+        //    Wait.Until(ExpectedConditions.ElementToBeClickable(_locator));
+        //}
 
         protected void WaitForElementDisplayed()
         {
@@ -129,6 +133,5 @@ namespace demo.framework.Elements
                 Log.Fatal(string.Format("Element with locator: '{0}' does not exists!", locator));
             }
         }
-
     }
 }

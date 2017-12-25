@@ -1,5 +1,4 @@
-﻿using System;
-using demo.framework.Elements;
+﻿using demo.framework.Elements;
 using demo.framework.forms;
 using OpenQA.Selenium;
 

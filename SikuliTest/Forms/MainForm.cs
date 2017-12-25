@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-using demo.framework;
 using demo.framework.Elements;
 using demo.framework.forms;
 using OpenQA.Selenium;
@@ -33,6 +28,7 @@ namespace SikuliTest.Forms
             new BrowseCategoryMenu(By.XPath("//div[@id='view-search']//div[contains(@class,'facet-category')]"),
            "Main side menu");
         private const string RegularFindCharacteristicsItem = @"[^\D]\.?\d+";
+        private const string Zero = "0";
 
         public MainForm()
             : base(By.XPath("//div[@id='view-floor']//div[contains(@class,'canvas')]"), "Main Roomstyler Form")
@@ -89,7 +85,7 @@ namespace SikuliTest.Forms
         {
             foreach (var characteristic in characteristicsItem)
             {
-                if (characteristic == "0")
+                if (characteristic == Zero)
                     return false;
             }
             return true;
@@ -100,7 +96,7 @@ namespace SikuliTest.Forms
             var ElementsFromInformationScene = informationScene.FindElements();
             foreach (var element in ElementsFromInformationScene)
             {
-                if (element.Text == "0")
+                if (element.Text == Zero)
                     return true;
             }
             return false;

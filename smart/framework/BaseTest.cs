@@ -11,7 +11,6 @@ namespace demo.framework
        {
             Browser.GetInstance();
             Browser.GetDriver().Navigate().GoToUrl(Configuration.GetBaseUrl());
-            //Browser.GetDriver().Manage().Window.Maximize();
         }
 
         [TestCleanup]

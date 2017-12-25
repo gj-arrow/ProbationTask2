@@ -1,16 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.IE;
 using OpenQA.Selenium.Support.UI;
 
 namespace demo.framework
 {
-
     public class Browser : BaseEntity
     {
         protected static Browser _browser;
@@ -20,7 +13,6 @@ namespace demo.framework
         {
            _driver = BrowserFactory.SetupBrowser();
            _driver.Manage().Window.Maximize();
-           
             return new Browser();
         }
 
@@ -51,6 +43,5 @@ namespace demo.framework
             {
             }
         }
-
     }
 }

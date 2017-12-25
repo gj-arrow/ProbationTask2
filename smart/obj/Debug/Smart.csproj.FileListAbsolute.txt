@@ -68,6 +68,6 @@ D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\Selenium.
 D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\ThoughtWorks.Selenium.Core.dll
 D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\WebDriver.dll
 D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\bin\Debug\WebDriver.Support.dll
+D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\obj\Debug\Smart.csprojResolveAssemblyReference.cache
 D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\obj\Debug\OnlinerTestDemo.dll
 D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\obj\Debug\OnlinerTestDemo.pdb
-D:\Student\Tasks\A1QA probation\Task2Sikuli\SikuliTest\smart\obj\Debug\Smart.csprojResolveAssemblyReference.cache
