@@ -1,0 +1,6 @@
+﻿<xml>
+  <item>Item.png</item>
+  <itemViewFromAbove>ItemViewFromAbove.png</itemViewFromAbove>
+  <placeForItem>EmptyPlace.png</placeForItem>
+  <deleteButton>btnDelete.png</deleteButton>
+</xml>
