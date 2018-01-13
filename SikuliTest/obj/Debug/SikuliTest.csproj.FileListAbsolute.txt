@@ -88,3 +88,21 @@ D:\Work\a.hovrin\ProbationTask2\SikuliTest\obj\Debug\SikuliTest.csprojResolveAss
 D:\Work\a.hovrin\ProbationTask2\SikuliTest\obj\Debug\SikuliTest.csproj.CoreCompileInputs.cache
 D:\Work\a.hovrin\ProbationTask2\SikuliTest\obj\Debug\SikuliTest.dll
 D:\Work\a.hovrin\ProbationTask2\SikuliTest\obj\Debug\SikuliTest.pdb
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\bin\Debug\resources\chromedriver.exe
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\bin\Debug\SikuliTest.dll.config
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\bin\Debug\SikuliTest.dll
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\bin\Debug\SikuliTest.pdb
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\bin\Debug\log4net.dll
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\bin\Debug\OnlinerTestDemo.dll
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\bin\Debug\SikuliSharp.dll
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\bin\Debug\WebDriver.dll
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\bin\Debug\WebDriver.Support.dll
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\bin\Debug\SikuliSharp.pdb
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\bin\Debug\OnlinerTestDemo.pdb
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\bin\Debug\log4net.xml
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\bin\Debug\WebDriver.xml
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\bin\Debug\WebDriver.Support.xml
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\obj\Debug\SikuliTest.csprojResolveAssemblyReference.cache
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\obj\Debug\SikuliTest.dll
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliTest\obj\Debug\SikuliTest.pdb

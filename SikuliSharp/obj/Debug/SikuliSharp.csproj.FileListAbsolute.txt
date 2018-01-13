@@ -16,3 +16,8 @@ D:\Work\a.hovrin\ProbationTask2\SikuliSharp\obj\Debug\SikuliSharp.csprojResolveA
 D:\Work\a.hovrin\ProbationTask2\SikuliSharp\obj\Debug\SikuliSharp.csproj.CoreCompileInputs.cache
 D:\Work\a.hovrin\ProbationTask2\SikuliSharp\obj\Debug\SikuliSharp.dll
 D:\Work\a.hovrin\ProbationTask2\SikuliSharp\obj\Debug\SikuliSharp.pdb
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliSharp\bin\Debug\SikuliSharp.dll
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliSharp\bin\Debug\SikuliSharp.pdb
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliSharp\obj\Debug\SikuliSharp.csprojResolveAssemblyReference.cache
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliSharp\obj\Debug\SikuliSharp.dll
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask2\ProbationTask2\SikuliSharp\obj\Debug\SikuliSharp.pdb
